@@ -8,7 +8,7 @@
 			"type": "lua",
 			"request": "launch",
 			"name": "Debug",
-			"program": "${workspaceFolder}/2023/1/main.lua",
+			"program": "${file}",
             "stopOnEntry": false
 		}
 	]
